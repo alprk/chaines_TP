@@ -1,4 +1,14 @@
-Wittmer Denis 
+Wittmer Dennis 
 Paillares Alexandre
 
+
 DASI 2
+
+
+Partie 2 : Dans le cas d'une chaine ne contenant que des 'z' la fonction getNext() plantera
+EX:
+
+>>> getNext("zzz")
+'aab'
+
+on ne sait pas quelle chaine devrait être retournée.
