@@ -5,10 +5,15 @@ Paillares Alexandre
 DASI 2
 
 
-Partie 2 : Dans le cas d'une chaine ne contenant que des 'z' la fonction getNext() plantera
+Partie 2 Question1 :
+Dans le cas d'une chaine ne contenant que des 'z' la fonction getNext() plantera
 EX:
 
 >>> getNext("zzz")
 'aab'
 
 on ne sait pas quelle chaine devrait être retournée.
+
+PArtie 2  Question 2 :
+
+Pour un mot de passe de longueur n, il y a 26^n possibilitées.
